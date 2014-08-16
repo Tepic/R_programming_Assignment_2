@@ -1,6 +1,6 @@
 #Milan Tepic
 
-#											ALGORITHM
+# ALGORITHM
 #
 # By calling the function makeCacheMatrix(matrix), programm will pass the matrix to this function
 # which will then check if there is identical matrix in its (programm) cache. Furthermore,
